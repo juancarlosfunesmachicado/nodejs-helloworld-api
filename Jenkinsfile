@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    // Ejemplo
+    
     stages {
         stage('Install') {
             steps {
