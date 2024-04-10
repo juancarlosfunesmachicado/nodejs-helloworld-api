@@ -57,5 +57,5 @@ ngrok http http://localhost:8080
 git clone https://github.com/juancarlosfunesmachicado/nodejs-helloworld-api
 ```
 4. **Configurar Github Webhook**
-5. **Crear y configurar una tarea en Jenkins**
+5. **Crear y configurar una tarea y nodejs en Jenkins**
 6. **Realizar Push en el repositoriio**
